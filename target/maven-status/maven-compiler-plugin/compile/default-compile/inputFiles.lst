@@ -1,0 +1,14 @@
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/controller/ErrorController.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/service/UserService.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/models/Product.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/service/ProductService.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/repository/ProductRepository.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/controller/AuthController.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/controller/AdminProductController.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/models/MarketUser.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/controller/MainController.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/repository/UserRepository.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/models/ProductCategory.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/config/SecurityConfig.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/MarketRentApplication.java
+/Users/rg_marina/University/MarketRent/market/src/main/java/com/example/marketrent/controller/ProductController.java
